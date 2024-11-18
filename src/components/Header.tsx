@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { FaSquareGithub, FaLinkedin, FaSquareInstagram, FaYoutube, FaGithub, FaInstagram } from "react-icons/fa6";
+import { FaLinkedin, FaYoutube, FaGithub, FaInstagram } from "react-icons/fa6";
 
 export default function Header() {
   const [isDarkMode, setIsDarkMode] = useState(false)
