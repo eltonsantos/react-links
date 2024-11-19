@@ -91,7 +91,7 @@ export default function Header() {
           <FaGithub className="text-2xl" />
         </a>
         <a
-          href="https://instagram.com/eltin182"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
           className="p-3 rounded-full bg-gray-200 hover:bg-gray-300 transition"
